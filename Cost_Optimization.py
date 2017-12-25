@@ -9,7 +9,8 @@
 #6.Checks all the unassociated Elastic IP's
 
 #Author : Aman Jain (To The New Digital)
-
+#Ref: http://www.tothenew.com/blog/6-tips-for-aws-cost-optimization/
+#Boto3 need to be installed. http://boto3.readthedocs.io/en/latest/
 
 #importing the required package
 
